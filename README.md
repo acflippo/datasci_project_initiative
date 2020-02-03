@@ -1,4 +1,4 @@
-# datasci_project_initiative
+# Datasci Project & Initiative
 
 This is a high-level discussion on how to start a successful data science initiative, project and team.
 
